@@ -1,5 +1,5 @@
 return function()
-    local TabsLib = loadstring(game:HttpGet("https://pastebin.com/raw/F4647K32",true))()
+    local TabsLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/JailTabsCreator/JailTabs/master/System/Tabs-Library.lua",true))()
 
     local K = game:GetService("Players").LocalPlayer
     local O = K.Character.HumanoidRootPart
